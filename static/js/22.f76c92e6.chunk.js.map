@@ -1,0 +1,1 @@
+{"version":3,"sources":["routes/Lab/Vote/Vote.tsx"],"names":["Vote","className"],"mappings":"kJAUeA,UARF,WACX,OACE,qBAAKC,UAAU,OAAf,SACE","file":"static/js/22.f76c92e6.chunk.js","sourcesContent":["import React from 'react';\n\nconst Vote = () => {\n  return (\n    <div className=\"Vote\">\n      <h2>Vote</h2>\n    </div>\n  );\n}\n\nexport default Vote;"],"sourceRoot":""}

@@ -1,1 +1,0 @@
-{"version":3,"sources":["routes/Bounty/Bounty.tsx"],"names":["Bounty","className"],"mappings":"kJAOeA,UALI,kBACjB,qBAAKC,UAAU","file":"static/js/11.0f9cc9f8.chunk.js","sourcesContent":["import React, { FC } from 'react';\n\nconst Bounty: FC = () => (\n  <div className=\"Bounty Page\">\n  </div>\n);\n\nexport default Bounty;"],"sourceRoot":""}
