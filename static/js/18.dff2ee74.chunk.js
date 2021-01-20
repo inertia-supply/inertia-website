@@ -1,2 +1,0 @@
-(this["webpackJsonpinertia-website"]=this["webpackJsonpinertia-website"]||[]).push([[18],{496:function(t,e,i){"use strict";i.r(e);var s=i(4);i(1);e.default=function(){return Object(s.jsx)("div",{className:"Contact Page"})}}}]);
-//# sourceMappingURL=18.dff2ee74.chunk.js.map
