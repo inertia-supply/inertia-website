@@ -1,2 +1,0 @@
-(this["webpackJsonpinertia-website"]=this["webpackJsonpinertia-website"]||[]).push([[19],{495:function(e,t,i){"use strict";i.r(t);var s=i(3);i(1);t.default=function(){return Object(s.jsx)("div",{className:"Bounty Page"})}}}]);
-//# sourceMappingURL=19.9d79bf0b.chunk.js.map

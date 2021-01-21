@@ -1,2 +1,0 @@
-(this["webpackJsonpinertia-website"]=this["webpackJsonpinertia-website"]||[]).push([[18],{488:function(e,t,n){},500:function(e,t,n){"use strict";n.r(t);var s=n(3),c=(n(1),n(74));n(488);t.default=function(){return Object(s.jsxs)("div",{className:"Vote",children:[Object(s.jsx)("h2",{className:"Vote__title",children:"Vote"}),Object(s.jsx)("div",{className:"Vote__content",children:Object(s.jsx)(c.c,{heading:"Coming Soon",content:"Use INR to vote on which new E-Fi product proposals should be launched."})})]})}}}]);
-//# sourceMappingURL=18.ccc99a24.chunk.js.map
